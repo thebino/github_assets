@@ -11,3 +11,5 @@ This TUI Application uses:
 - [Ratatui](https://ratatui.rs/)
 - [Github API](https://docs.github.com/en/rest)
 - [adb_client crate](https://crates.io/crates/adb_client) to communicate with android
+
+<img src="sample.png"/>
