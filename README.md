@@ -12,4 +12,5 @@ This TUI Application uses:
 - [Github API](https://docs.github.com/en/rest)
 - [adb_client crate](https://crates.io/crates/adb_client) to communicate with android
 
-<img src="sample.png"/>
+<img src="showcase.png"/>
+<video src="https://github.com/thebino/github_assets/raw/main/showcase.mp4"></video>
